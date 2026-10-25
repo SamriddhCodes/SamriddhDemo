@@ -1,4 +1,5 @@
 # SamriddhDemo
 This is my 1st GitRepo
 <br>
-Author - Samriddh Thakur
+Author - Samriddh (iiii)
+ 
