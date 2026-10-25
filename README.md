@@ -1,2 +1,3 @@
 # SamriddhDemo
-This is my 1st GItRepo
+This is my 1st GitRepo
+Author - Samriddh Thakur
